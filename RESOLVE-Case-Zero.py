@@ -96,4 +96,14 @@ def fight(foe):
             hold -= 6 if primed else 2; primed = False
             p("You hit it where it seems human. It gives a little.")
         elif a.startswith("Read"):
-            
+            up(8); primed = block = True
+            p("You see it coming, and you see the seam behind it: the place it is "
+            "still forming, still a boy. You step out of the way.")
+        elif a.startswith("Allen"):
+            hold -= 4; up(6)
+            say ("ALLEN", ALLEN_LINES[turn % len(ALLEN_LINES)])
+            p("He moves at a speed where you can\'t tell what he does. But it works.")
+        elif a.startswith("Phil"):
+            gear -= 1; block = True
+            say("PHIL", ['"Eyes shut, Adron. I mean it."', '"Built this with stolen tech, don\'t tell Royce."'])
+

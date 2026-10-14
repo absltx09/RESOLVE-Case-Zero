@@ -11,6 +11,8 @@ You play as Adron Etere, an Anomaly Response Technician for Royce Technologies. 
 4. If you're on Windows, enter in "python RESOLVE-Case-Zero.py". If you're on Mac, enter in "python3 RESOLVE-Case-Zero.py".
 5. Enjoy your first taste of the world of RESOLVE
 
+You can also directly open the game by opening the file through a code editor like Visual Studio Code.
+
 # Gameplay
 To make a choice, type in the number corresponding to the choice (just the digit, nothing else) and press enter.
 

@@ -17,6 +17,6 @@ To make a choice, type in the number corresponding to the choice (just the digit
 Explore the house and inspect different items to piece together the mystery. Fight and exorcise anomalies within the house. Make sure to avoid depleting your BODY or burning out your NERVE. 
 
 # Once you're done playing
-Go check out my other links if you want to see more of these characters. I might also port this game into Ren'Py and expand it more, or make other games using these same mechanics and characters as I further flesh out RESOLVE.
+Go check out my other links like my Instagram if you want to see more of these characters. I might also port this game into Ren'Py and expand it more, or make other games using these same mechanics and characters as I further flesh out RESOLVE.
 
 from |abslt| with love

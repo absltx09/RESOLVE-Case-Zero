@@ -298,6 +298,8 @@ def telling():
     if nerve >= 7: p("SCARRING: L HAND")
     p("ZONE RESHAPING: PERMANENT. NOT SCHEDULED FOR REVIEW.")
     p(); p("RESOLVE")
+    p(); input("[ press enter to close ]")
+
 
 def main():
     drive()
